@@ -23,13 +23,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-20",
       "nextFollowUp": "2026-05-22",
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-21",
       "dateAdded": "2026-05-20"
     },
     {
@@ -177,5 +177,5 @@
       "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-21T15:00:47.512Z"
+  "lastUpdated": "2026-05-21T15:53:23.341Z"
 }
