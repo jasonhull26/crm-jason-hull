@@ -287,7 +287,23 @@
       "notes": "",
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21"
+    },
+    {
+      "id": "mpfv1rm1p0qkks8by5g",
+      "name": "Ian Kane",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21"
     }
   ],
-  "lastUpdated": "2026-05-21T19:03:47.095Z"
+  "lastUpdated": "2026-05-21T19:05:11.689Z"
 }
