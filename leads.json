@@ -352,7 +352,24 @@
       "lastModified": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T14:54:16.643Z"
+    },
+    {
+      "id": "mpigzf3o0onxezq4yys",
+      "name": "Anthony Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T14:54:46.068Z"
     }
   ],
-  "lastUpdated": "2026-05-23T14:54:16.644Z"
+  "lastUpdated": "2026-05-23T14:54:46.068Z"
 }
