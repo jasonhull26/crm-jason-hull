@@ -71,14 +71,15 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
+      "lastAction": "Closed",
       "lastContact": "2026-05-20",
       "nextFollowUp": "2026-05-24",
       "notes": "",
-      "lastModified": "2026-05-20",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-20",
+      "customerSince": "2026-05-25"
     },
     {
       "id": "mpf1qeydohs345yp1la",
@@ -388,5 +389,5 @@
       "addedAt": "2026-05-23T15:07:32.789Z"
     }
   ],
-  "lastUpdated": "2026-05-23T15:07:32.789Z"
+  "lastUpdated": "2026-05-25T21:36:17.023Z"
 }
