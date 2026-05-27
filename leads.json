@@ -422,7 +422,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T20:04:06.494Z"
+    },
+    {
+      "id": "mpoitf2lfimf4kqb3gr",
+      "name": "Delores L",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T20:32:42.381Z"
     }
   ],
-  "lastUpdated": "2026-05-27T20:04:06.495Z"
+  "lastUpdated": "2026-05-27T20:32:42.381Z"
 }
