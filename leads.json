@@ -371,7 +371,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T15:07:32.789Z"
+    },
+    {
+      "id": "mpohfc5ud0f2p44qs7",
+      "name": "Christie Garcia",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T19:53:45.810Z"
     }
   ],
-  "lastUpdated": "2026-05-27T19:40:02.027Z"
+  "lastUpdated": "2026-05-27T19:53:45.810Z"
 }
