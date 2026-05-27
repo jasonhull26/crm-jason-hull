@@ -405,7 +405,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T19:58:43.442Z"
+    },
+    {
+      "id": "mpohsn32o09ewki9wpk",
+      "name": "Douglas Graves",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T20:04:06.494Z"
     }
   ],
-  "lastUpdated": "2026-05-27T19:58:43.442Z"
+  "lastUpdated": "2026-05-27T20:04:06.495Z"
 }
