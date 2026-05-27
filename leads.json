@@ -17,22 +17,6 @@
       "dateAdded": "2026-05-20"
     },
     {
-      "id": "mpf1mkthlf1cai16l2o",
-      "name": "Lucy/Leon Turner",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Not Interested",
-      "temperature": "Cold",
-      "lastAction": "Not Interested",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-22",
-      "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
-    },
-    {
       "id": "mpf1nwvj8sf7x3i7rat",
       "name": "Tadeo Waiswa",
       "email": "",
@@ -389,5 +373,5 @@
       "addedAt": "2026-05-23T15:07:32.789Z"
     }
   ],
-  "lastUpdated": "2026-05-27T19:34:38.013Z"
+  "lastUpdated": "2026-05-27T19:34:41.432Z"
 }
