@@ -74,11 +74,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-22",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-03",
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20"
     },
     {
@@ -373,5 +373,5 @@
       "addedAt": "2026-05-23T15:07:32.789Z"
     }
   ],
-  "lastUpdated": "2026-05-27T19:36:19.726Z"
+  "lastUpdated": "2026-05-27T19:36:32.619Z"
 }
