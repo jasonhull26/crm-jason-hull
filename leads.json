@@ -25,11 +25,11 @@
       "source": "Facebook",
       "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-20",
       "nextFollowUp": "2026-05-22",
       "notes": "",
-      "lastModified": "2026-05-21",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20"
     },
     {
@@ -389,5 +389,5 @@
       "addedAt": "2026-05-23T15:07:32.789Z"
     }
   ],
-  "lastUpdated": "2026-05-27T19:33:33.733Z"
+  "lastUpdated": "2026-05-27T19:34:24.052Z"
 }
