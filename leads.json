@@ -563,7 +563,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:58:32.802Z"
+    },
+    {
+      "id": "mppmbui70vrwf4zl0r5",
+      "name": "Kevin Nunez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T14:58:47.215Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:58:32.802Z"
+  "lastUpdated": "2026-05-28T14:58:47.215Z"
 }
