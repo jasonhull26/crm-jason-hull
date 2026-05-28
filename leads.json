@@ -107,11 +107,12 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-29",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-20",
+      "videoSent": true
     },
     {
       "id": "mpf1sts48imfczdjfkr",
@@ -732,5 +733,5 @@
       "addedAt": "2026-05-28T15:00:37.491Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:56:26.705Z"
+  "lastUpdated": "2026-05-28T15:56:42.364Z"
 }
