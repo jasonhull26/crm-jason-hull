@@ -653,7 +653,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:59:43.931Z"
+    },
+    {
+      "id": "mppmd92vygtlobjv0oq",
+      "name": "David Neely",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T14:59:52.759Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:59:43.931Z"
+  "lastUpdated": "2026-05-28T14:59:52.759Z"
 }
