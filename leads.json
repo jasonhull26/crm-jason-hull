@@ -707,7 +707,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T15:00:26.632Z"
+    },
+    {
+      "id": "mppme7lfmhbu5ye8n5",
+      "name": "Jake Shoup",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T15:00:37.491Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:00:26.632Z"
+  "lastUpdated": "2026-05-28T15:00:37.491Z"
 }
