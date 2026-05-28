@@ -399,10 +399,10 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-28",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-29",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T19:58:43.442Z"
     },
@@ -492,5 +492,5 @@
       "addedAt": "2026-05-28T13:57:42.865Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:53:55.005Z"
+  "lastUpdated": "2026-05-28T14:56:32.892Z"
 }
