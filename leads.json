@@ -473,7 +473,24 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:57:22.697Z"
+    },
+    {
+      "id": "mppk5b2pixj0g6981c",
+      "name": "Danny Y",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T13:57:42.865Z"
     }
   ],
-  "lastUpdated": "2026-05-28T13:57:22.697Z"
+  "lastUpdated": "2026-05-28T13:57:42.865Z"
 }
