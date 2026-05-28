@@ -509,7 +509,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:57:46.982Z"
+    },
+    {
+      "id": "mppmaw8g5t6rz6s6ahn",
+      "name": "Timothy Rivera",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T14:58:02.800Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:57:46.982Z"
+  "lastUpdated": "2026-05-28T14:58:02.800Z"
 }
