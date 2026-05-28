@@ -482,7 +482,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
@@ -490,7 +490,8 @@
       "notes": "",
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
-      "addedAt": "2026-05-28T13:57:42.865Z"
+      "addedAt": "2026-05-28T13:57:42.865Z",
+      "videoSent": true
     },
     {
       "id": "mppmak12ukyk128elx",
@@ -727,5 +728,5 @@
       "addedAt": "2026-05-28T15:00:37.491Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:55:06.705Z"
+  "lastUpdated": "2026-05-28T15:55:23.107Z"
 }
