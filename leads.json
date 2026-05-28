@@ -219,11 +219,12 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-28",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-04",
       "notes": "",
       "lastModified": "2026-05-28",
-      "dateAdded": "2026-05-21"
+      "dateAdded": "2026-05-21",
+      "videoSent": false
     },
     {
       "id": "mpfux2l35ccpdbyezny",
@@ -459,7 +460,7 @@
     },
     {
       "id": "mppk4vihs15prtgje6q",
-      "name": "Matthew Muñoz",
+      "name": "Matthew MuÃ±oz",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/Munoz19XX#",
@@ -492,5 +493,5 @@
       "addedAt": "2026-05-28T13:57:42.865Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:56:50.960Z"
+  "lastUpdated": "2026-05-28T14:57:06.141Z"
 }
