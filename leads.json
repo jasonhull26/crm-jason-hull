@@ -439,7 +439,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T20:32:42.381Z"
+    },
+    {
+      "id": "mppk3nr9hr2qxo1rghd",
+      "name": "Alan Murphy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/FLAPESforPREZ#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T13:56:25.989Z"
     }
   ],
-  "lastUpdated": "2026-05-27T20:32:42.381Z"
+  "lastUpdated": "2026-05-28T13:56:25.989Z"
 }
