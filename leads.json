@@ -671,7 +671,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:59:52.759Z"
+    },
+    {
+      "id": "mppmdlfpkh73yma9qf",
+      "name": "Hector Capistran",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T15:00:08.773Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:59:52.759Z"
+  "lastUpdated": "2026-05-28T15:00:08.773Z"
 }
