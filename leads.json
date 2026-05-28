@@ -635,7 +635,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:59:32.770Z"
+    },
+    {
+      "id": "mppmd29nt05zhjfefvs",
+      "name": "German Solis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T14:59:43.931Z"
     }
   ],
-  "lastUpdated": "2026-05-28T14:59:32.770Z"
+  "lastUpdated": "2026-05-28T14:59:43.931Z"
 }
