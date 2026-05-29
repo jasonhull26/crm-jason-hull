@@ -788,7 +788,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:58:06.097Z"
+    },
+    {
+      "id": "mprabyij3zc43t7f57w",
+      "name": "Gregory Willis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:58:29.371Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:58:06.097Z"
+  "lastUpdated": "2026-05-29T18:58:29.371Z"
 }
