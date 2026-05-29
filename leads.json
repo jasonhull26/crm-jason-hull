@@ -842,7 +842,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:58:57.533Z"
+    },
+    {
+      "id": "mprad5p4sez6z8u9409",
+      "name": "Elvin Rodriquez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:59:25.336Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:58:57.533Z"
+  "lastUpdated": "2026-05-29T18:59:25.336Z"
 }
