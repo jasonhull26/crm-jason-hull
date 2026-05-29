@@ -824,7 +824,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:58:41.484Z"
+    },
+    {
+      "id": "mprack8tuuk3nyabkh",
+      "name": "Joshua Lewis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:58:57.533Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:58:41.484Z"
+  "lastUpdated": "2026-05-29T18:58:57.533Z"
 }
