@@ -752,7 +752,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:44:28.058Z"
+    },
+    {
+      "id": "mprab4cawazwlo2zvaf",
+      "name": "Johnny D",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:57:50.266Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:44:28.058Z"
+  "lastUpdated": "2026-05-29T18:57:50.266Z"
 }
