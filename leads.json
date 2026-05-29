@@ -770,7 +770,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:57:50.266Z"
+    },
+    {
+      "id": "mprabgk1ovoh1uyik6n",
+      "name": "Doug James",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:58:06.097Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:57:50.266Z"
+  "lastUpdated": "2026-05-29T18:58:06.097Z"
 }
