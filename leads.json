@@ -734,7 +734,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T15:00:37.491Z"
+    },
+    {
+      "id": "mpr9txcq8bkxj3i316w",
+      "name": "Colten Lang",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:44:28.058Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:36:20.270Z"
+  "lastUpdated": "2026-05-29T18:44:28.058Z"
 }
