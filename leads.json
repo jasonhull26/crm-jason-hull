@@ -689,14 +689,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T15:00:08.773Z"
     },
@@ -917,5 +917,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:48:55.055Z"
+  "lastUpdated": "2026-06-01T15:49:35.338Z"
 }
