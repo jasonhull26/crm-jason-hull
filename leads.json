@@ -743,14 +743,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-07-01",
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:44:28.058Z"
     },
@@ -917,5 +917,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:46:55.962Z"
+  "lastUpdated": "2026-06-01T15:47:06.426Z"
 }
