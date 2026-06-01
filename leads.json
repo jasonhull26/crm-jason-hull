@@ -1160,7 +1160,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:16:06.748Z"
+    },
+    {
+      "id": "mpvj5bqzc7v0laak7rv",
+      "name": "Michelle Curry",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T18:16:21.179Z"
     }
   ],
-  "lastUpdated": "2026-06-01T18:16:06.748Z"
+  "lastUpdated": "2026-06-01T18:16:21.179Z"
 }
