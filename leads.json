@@ -173,11 +173,12 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-31",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-21"
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-21",
+      "videoSent": false
     },
     {
       "id": "mpftqbso15pmk9sfjf2",
@@ -919,5 +920,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:57:55.925Z"
+  "lastUpdated": "2026-06-01T15:58:38.276Z"
 }
