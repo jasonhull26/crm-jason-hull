@@ -190,11 +190,12 @@
       "status": "Sent Video",
       "temperature": "Hot",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-31",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-06",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-21"
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-21",
+      "videoSent": false
     },
     {
       "id": "mpfut852739tlyl0owh",
@@ -920,5 +921,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:58:38.276Z"
+  "lastUpdated": "2026-06-01T15:59:24.147Z"
 }
