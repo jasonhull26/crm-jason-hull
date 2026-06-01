@@ -527,14 +527,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:58:02.800Z"
     },
@@ -917,5 +917,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:54:02.996Z"
+  "lastUpdated": "2026-06-01T15:54:39.508Z"
 }
