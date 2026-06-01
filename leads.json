@@ -797,14 +797,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:58:29.371Z"
     },
@@ -917,5 +917,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:45:36.068Z"
+  "lastUpdated": "2026-06-01T15:45:54.249Z"
 }
