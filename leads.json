@@ -378,11 +378,11 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-06-01",
       "dateAdded": "2026-05-23",
@@ -1216,5 +1216,5 @@
       "addedAt": "2026-06-01T20:37:28.781Z"
     }
   ],
-  "lastUpdated": "2026-06-01T20:37:28.781Z"
+  "lastUpdated": "2026-06-01T20:54:00.391Z"
 }
