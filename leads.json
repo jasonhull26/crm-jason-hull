@@ -1178,7 +1178,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:16:21.179Z"
+    },
+    {
+      "id": "mpvj5lexifsrsb8n",
+      "name": "Kevin Marino",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T18:16:33.705Z"
     }
   ],
-  "lastUpdated": "2026-06-01T18:16:21.179Z"
+  "lastUpdated": "2026-06-01T18:16:33.705Z"
 }
