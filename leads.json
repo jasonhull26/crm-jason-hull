@@ -1142,7 +1142,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:15:52.775Z"
+    },
+    {
+      "id": "mpvj50m4aybtd8b5kzm",
+      "name": "Shawn Miller",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T18:16:06.748Z"
     }
   ],
-  "lastUpdated": "2026-06-01T18:15:52.775Z"
+  "lastUpdated": "2026-06-01T18:16:06.748Z"
 }
