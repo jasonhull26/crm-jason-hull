@@ -980,7 +980,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:13:03.647Z"
+    },
+    {
+      "id": "mpvj1pfnkqd0sy68a9r",
+      "name": "John Richards",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T18:13:32.291Z"
     }
   ],
-  "lastUpdated": "2026-06-01T18:13:03.647Z"
+  "lastUpdated": "2026-06-01T18:13:32.291Z"
 }
