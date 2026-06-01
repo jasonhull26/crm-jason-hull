@@ -635,14 +635,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:59:32.770Z"
     },
@@ -917,5 +917,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:50:32.021Z"
+  "lastUpdated": "2026-06-01T15:51:05.292Z"
 }
