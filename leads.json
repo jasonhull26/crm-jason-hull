@@ -1034,7 +1034,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:14:09.351Z"
+    },
+    {
+      "id": "mpvj2s0qut8739uqjab",
+      "name": "Che Feemster",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T18:14:22.298Z"
     }
   ],
-  "lastUpdated": "2026-06-01T18:14:09.351Z"
+  "lastUpdated": "2026-06-01T18:14:22.298Z"
 }
