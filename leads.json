@@ -351,15 +351,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-06",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T14:54:46.068Z"
+      "addedAt": "2026-05-23T14:54:46.068Z",
+      "videoSent": false
     },
     {
       "id": "mpihfupgkqt9j1ryikm",
@@ -918,5 +919,5 @@
       "addedAt": "2026-05-29T19:04:14.637Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:57:01.127Z"
+  "lastUpdated": "2026-06-01T15:57:55.925Z"
 }
