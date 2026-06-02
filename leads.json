@@ -1232,7 +1232,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T20:34:20.475Z"
+    },
+    {
+      "id": "mpx3k3fk8o2hzgc7oie",
+      "name": "tresela lee",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T20:35:28.737Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:34:20.475Z"
+  "lastUpdated": "2026-06-02T20:35:28.737Z"
 }
