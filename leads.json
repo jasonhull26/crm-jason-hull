@@ -1214,7 +1214,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:37:28.781Z"
+    },
+    {
+      "id": "mpx3imrf3d2syj5gpo",
+      "name": "Brandon M",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T20:34:20.475Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:29:12.339Z"
+  "lastUpdated": "2026-06-02T20:34:20.475Z"
 }
