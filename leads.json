@@ -1322,7 +1322,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T20:38:10.510Z"
+    },
+    {
+      "id": "mpx3obnp9lh3ufe2a7",
+      "name": "Vlad",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T20:38:46.021Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:38:10.511Z"
+  "lastUpdated": "2026-06-02T20:38:46.021Z"
 }
