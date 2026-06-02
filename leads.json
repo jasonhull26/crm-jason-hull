@@ -1304,7 +1304,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T20:37:26.733Z"
+    },
+    {
+      "id": "mpx3nk9ajmb73amf3io",
+      "name": "Stewart Laing",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T20:38:10.510Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:37:26.733Z"
+  "lastUpdated": "2026-06-02T20:38:10.511Z"
 }
