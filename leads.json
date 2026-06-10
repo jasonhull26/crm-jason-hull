@@ -1420,7 +1420,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T20:11:25.947Z"
+    },
+    {
+      "id": "mq8i8ep0pi19j6obwbj",
+      "name": "Nancy Wilt",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T20:11:45.636Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:11:25.947Z"
+  "lastUpdated": "2026-06-10T20:11:45.636Z"
 }
