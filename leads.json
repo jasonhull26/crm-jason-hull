@@ -343,15 +343,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Watched",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T14:54:16.643Z"
+      "addedAt": "2026-05-23T14:54:16.643Z",
+      "videoSent": false
     },
     {
       "id": "mpihfupgkqt9j1ryikm",
@@ -1378,5 +1379,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:03:41.700Z"
+  "lastUpdated": "2026-06-10T20:03:55.793Z"
 }
