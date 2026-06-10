@@ -137,22 +137,6 @@
       "videoSent": false
     },
     {
-      "id": "mpf1u44i5snjcmt0utg",
-      "name": "Michael Steger",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Watched",
-      "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
-      "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
-    },
-    {
       "id": "mpftqbso15pmk9sfjf2",
       "name": "z zacky",
       "email": "",
@@ -1348,5 +1332,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:08:04.720Z"
+  "lastUpdated": "2026-06-10T20:08:07.968Z"
 }
