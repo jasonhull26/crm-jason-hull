@@ -167,23 +167,6 @@
       "dateAdded": "2026-05-20"
     },
     {
-      "id": "mpftmcqi8b9vt2rwkux",
-      "name": "Brandin Mothershed",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-01",
-      "dateAdded": "2026-05-21",
-      "videoSent": false
-    },
-    {
       "id": "mpftqbso15pmk9sfjf2",
       "name": "z zacky",
       "email": "",
@@ -1379,5 +1362,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:03:55.793Z"
+  "lastUpdated": "2026-06-10T20:04:06.095Z"
 }
