@@ -24,13 +24,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -1362,5 +1362,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:07:07.448Z"
+  "lastUpdated": "2026-06-10T20:07:15.729Z"
 }
