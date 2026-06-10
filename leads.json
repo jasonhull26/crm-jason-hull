@@ -1366,7 +1366,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T20:10:28.596Z"
+    },
+    {
+      "id": "mq8i73dtlio70ymu1i",
+      "name": "Matthew E",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T20:10:44.321Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:10:28.596Z"
+  "lastUpdated": "2026-06-10T20:10:44.321Z"
 }
