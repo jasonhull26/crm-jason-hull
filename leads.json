@@ -1348,14 +1348,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T20:41:36.323Z"
     },
@@ -1396,5 +1396,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T19:52:02.056Z"
+  "lastUpdated": "2026-06-10T19:52:10.667Z"
 }
