@@ -538,14 +538,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T14:58:02.800Z"
     },
@@ -1396,5 +1396,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:01:51.027Z"
+  "lastUpdated": "2026-06-10T20:02:02.138Z"
 }
