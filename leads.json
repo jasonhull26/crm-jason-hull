@@ -120,22 +120,6 @@
       "videoSent": true
     },
     {
-      "id": "mpf1sts48imfczdjfkr",
-      "name": "Thomas Ma",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Watched",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
-      "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
-    },
-    {
       "id": "mpf1tdrmoesdwcbu9p",
       "name": "Beza Hailu",
       "email": "",
@@ -1363,5 +1347,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:07:52.944Z"
+  "lastUpdated": "2026-06-10T20:07:57.880Z"
 }
