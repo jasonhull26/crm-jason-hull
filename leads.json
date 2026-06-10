@@ -78,11 +78,12 @@
       "status": "Prospect",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-24",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpf1rbhbv58r87n1w5",
@@ -1362,5 +1363,5 @@
       "addedAt": "2026-06-02T20:42:53.727Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:07:26.334Z"
+  "lastUpdated": "2026-06-10T20:07:35.664Z"
 }
