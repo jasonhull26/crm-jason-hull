@@ -1456,7 +1456,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T20:12:14.699Z"
+    },
+    {
+      "id": "mq8i9z1e969jjoratmt",
+      "name": "William Chan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T20:12:58.658Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:12:14.699Z"
+  "lastUpdated": "2026-06-10T20:12:58.658Z"
 }
