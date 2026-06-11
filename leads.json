@@ -1564,7 +1564,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T20:16:08.569Z"
+    },
+    {
+      "id": "mq9wxwnenlezf76nenp",
+      "name": "Steve Kreycik",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:51:16.106Z"
     }
   ],
-  "lastUpdated": "2026-06-10T20:16:08.569Z"
+  "lastUpdated": "2026-06-11T19:51:16.106Z"
 }
