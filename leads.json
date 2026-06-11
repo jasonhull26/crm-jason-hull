@@ -1600,7 +1600,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:51:34.546Z"
+    },
+    {
+      "id": "mq9wywsueg1icuhak3k",
+      "name": "Brian Bow",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:52:02.959Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:51:34.546Z"
+  "lastUpdated": "2026-06-11T19:52:02.959Z"
 }
