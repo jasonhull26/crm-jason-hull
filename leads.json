@@ -1690,7 +1690,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:53:42.707Z"
+    },
+    {
+      "id": "mq9x212u2h2878j6xtt",
+      "name": "Robert Holguin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:54:28.470Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:53:42.707Z"
+  "lastUpdated": "2026-06-11T19:54:28.470Z"
 }
