@@ -1618,7 +1618,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:52:02.959Z"
+    },
+    {
+      "id": "mq9wzfoi27qchyowfwm",
+      "name": "Perry Sch",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:52:27.426Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:52:02.959Z"
+  "lastUpdated": "2026-06-11T19:52:27.426Z"
 }
