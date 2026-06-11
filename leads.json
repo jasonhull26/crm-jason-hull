@@ -1708,7 +1708,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:54:28.470Z"
+    },
+    {
+      "id": "mq9x2qyzptdxm7fsyej",
+      "name": "Kathy Van",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:55:02.027Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:54:28.470Z"
+  "lastUpdated": "2026-06-11T19:55:02.027Z"
 }
