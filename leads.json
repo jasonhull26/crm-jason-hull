@@ -1798,7 +1798,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T16:30:23.476Z"
+    },
+    {
+      "id": "mqb58v9slh765fn324",
+      "name": "Leandarius Thoubalaoing",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T16:31:30.640Z"
     }
   ],
-  "lastUpdated": "2026-06-12T16:30:23.476Z"
+  "lastUpdated": "2026-06-12T16:31:30.640Z"
 }
