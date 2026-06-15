@@ -1816,7 +1816,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T16:31:58.677Z"
+    },
+    {
+      "id": "mqfq9g1vcklajs8syr4",
+      "name": "Charles Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T21:30:54.212Z"
     }
   ],
-  "lastUpdated": "2026-06-15T21:29:25.157Z"
+  "lastUpdated": "2026-06-15T21:30:54.212Z"
 }
