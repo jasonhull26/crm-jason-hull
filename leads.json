@@ -1942,7 +1942,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T21:32:29.773Z"
+    },
+    {
+      "id": "mqfqbtj5oilk2i537f",
+      "name": "Carlos Arena",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T21:32:44.993Z"
     }
   ],
-  "lastUpdated": "2026-06-15T21:32:29.773Z"
+  "lastUpdated": "2026-06-15T21:32:44.993Z"
 }
