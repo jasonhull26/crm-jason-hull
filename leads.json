@@ -1296,24 +1296,6 @@
       "addedAt": "2026-06-02T20:41:36.323Z"
     },
     {
-      "id": "mpx3ssp1bs0vtugiypw",
-      "name": "Kelli Verbosh",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
-      "notes": "",
-      "lastModified": "2026-06-12",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T20:42:14.725Z"
-    },
-    {
       "id": "mpx3tmsf9rlmgoexrnt",
       "name": "bruce barbour",
       "email": "",
@@ -1836,5 +1818,5 @@
       "addedAt": "2026-06-12T16:31:58.677Z"
     }
   ],
-  "lastUpdated": "2026-06-15T21:28:06.567Z"
+  "lastUpdated": "2026-06-15T21:28:12.485Z"
 }
