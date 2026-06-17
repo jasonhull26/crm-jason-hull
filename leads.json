@@ -870,14 +870,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T17:56:39.249Z"
     },
@@ -1998,5 +1998,5 @@
       "addedAt": "2026-06-15T21:33:12.730Z"
     }
   ],
-  "lastUpdated": "2026-06-17T20:05:15.374Z"
+  "lastUpdated": "2026-06-17T20:05:21.773Z"
 }
