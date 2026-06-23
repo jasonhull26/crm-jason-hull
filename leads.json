@@ -928,10 +928,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-22",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:13:32.291Z"
     },
@@ -2016,5 +2016,5 @@
       "addedAt": "2026-06-22T16:21:42.328Z"
     }
   ],
-  "lastUpdated": "2026-06-23T04:26:55.147Z"
+  "lastUpdated": "2026-06-23T04:27:45.655Z"
 }
