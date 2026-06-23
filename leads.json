@@ -1332,24 +1332,6 @@
       "addedAt": "2026-06-10T20:10:04.999Z"
     },
     {
-      "id": "mq8i6r906kl33x0q3mh",
-      "name": "Perry Sch",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-22",
-      "notes": "",
-      "lastModified": "2026-06-15",
-      "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T20:10:28.596Z"
-    },
-    {
       "id": "mq8i73dtlio70ymu1i",
       "name": "Matthew E",
       "email": "",
@@ -2034,5 +2016,5 @@
       "addedAt": "2026-06-22T16:21:42.328Z"
     }
   ],
-  "lastUpdated": "2026-06-23T04:25:56.577Z"
+  "lastUpdated": "2026-06-23T04:26:03.426Z"
 }
