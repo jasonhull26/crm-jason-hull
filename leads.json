@@ -2032,7 +2032,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T04:53:26.714Z"
+    },
+    {
+      "id": "mqqztc03hognntan6wr",
+      "name": "Randy David",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:43:46.563Z"
     }
   ],
-  "lastUpdated": "2026-06-23T04:53:26.714Z"
+  "lastUpdated": "2026-06-23T18:43:46.563Z"
 }
