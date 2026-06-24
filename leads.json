@@ -1374,14 +1374,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T20:11:25.947Z"
     },
@@ -2070,5 +2070,5 @@
       "addedAt": "2026-06-23T18:53:15.812Z"
     }
   ],
-  "lastUpdated": "2026-06-24T22:15:09.379Z"
+  "lastUpdated": "2026-06-24T22:20:28.042Z"
 }
