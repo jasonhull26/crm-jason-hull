@@ -78,10 +78,10 @@
       "status": "Prospect",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-24",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-01",
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -2070,5 +2070,5 @@
       "addedAt": "2026-06-23T18:53:15.812Z"
     }
   ],
-  "lastUpdated": "2026-06-24T22:32:50.812Z"
+  "lastUpdated": "2026-06-24T22:33:09.742Z"
 }
