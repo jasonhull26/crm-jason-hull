@@ -888,14 +888,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:12:47.634Z"
     },
@@ -2070,5 +2070,5 @@
       "addedAt": "2026-06-23T18:53:15.812Z"
     }
   ],
-  "lastUpdated": "2026-06-24T22:26:48.834Z"
+  "lastUpdated": "2026-06-24T22:27:22.331Z"
 }
