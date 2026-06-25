@@ -2086,7 +2086,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T22:35:02.568Z"
+    },
+    {
+      "id": "mqttfu3w4cyrt3d1amm",
+      "name": "Paul Zond",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T18:08:37.676Z"
     }
   ],
-  "lastUpdated": "2026-06-25T18:07:55.642Z"
+  "lastUpdated": "2026-06-25T18:08:37.676Z"
 }
