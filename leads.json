@@ -2266,7 +2266,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T18:11:27.919Z"
+    },
+    {
+      "id": "mqttjpvl2vqljh2hvxl",
+      "name": "Brian Pat",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T18:11:38.817Z"
     }
   ],
-  "lastUpdated": "2026-06-25T18:11:27.919Z"
+  "lastUpdated": "2026-06-25T18:11:38.817Z"
 }
