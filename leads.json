@@ -2007,11 +2007,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-23",
       "nextFollowUp": "2026-06-25",
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T16:21:42.328Z"
     },
@@ -2088,5 +2088,5 @@
       "addedAt": "2026-06-24T22:35:02.568Z"
     }
   ],
-  "lastUpdated": "2026-06-25T18:07:24.692Z"
+  "lastUpdated": "2026-06-25T18:07:36.727Z"
 }
