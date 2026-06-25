@@ -2058,14 +2058,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:53:15.812Z"
     },
@@ -2088,5 +2088,5 @@
       "addedAt": "2026-06-24T22:35:02.568Z"
     }
   ],
-  "lastUpdated": "2026-06-24T22:35:02.568Z"
+  "lastUpdated": "2026-06-25T18:07:24.692Z"
 }
