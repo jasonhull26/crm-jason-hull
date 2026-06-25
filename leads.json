@@ -2158,7 +2158,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T18:09:36.437Z"
+    },
+    {
+      "id": "mqtthmfhhyeumr5p4g",
+      "name": "Dav Schwartz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T18:10:01.037Z"
     }
   ],
-  "lastUpdated": "2026-06-25T18:09:36.437Z"
+  "lastUpdated": "2026-06-25T18:10:01.037Z"
 }
