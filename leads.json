@@ -1242,24 +1242,6 @@
       "addedAt": "2026-06-02T20:37:26.733Z"
     },
     {
-      "id": "mpx3nk9ajmb73amf3io",
-      "name": "Stewart Laing",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Prospect",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-29",
-      "notes": "",
-      "lastModified": "2026-06-24",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T20:38:10.510Z"
-    },
-    {
       "id": "mpx3obnp9lh3ufe2a7",
       "name": "Vlad",
       "email": "",
@@ -2232,5 +2214,5 @@
       "addedAt": "2026-06-25T18:11:38.817Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:19:17.633Z"
+  "lastUpdated": "2026-06-29T22:19:33.749Z"
 }
