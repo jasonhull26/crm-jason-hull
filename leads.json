@@ -332,15 +332,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T19:53:45.810Z"
+      "addedAt": "2026-05-27T19:53:45.810Z",
+      "videoSent": false
     },
     {
       "id": "mpohlptenbxvhi3r5m",
@@ -2214,5 +2215,5 @@
       "addedAt": "2026-06-25T18:11:38.817Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:23:44.032Z"
+  "lastUpdated": "2026-06-29T22:23:50.564Z"
 }
