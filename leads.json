@@ -1584,24 +1584,6 @@
       "addedAt": "2026-06-11T19:52:02.959Z"
     },
     {
-      "id": "mq9wzfoi27qchyowfwm",
-      "name": "Perry Sch",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
-      "notes": "",
-      "lastModified": "2026-06-22",
-      "dateAdded": "2026-06-11",
-      "addedAt": "2026-06-11T19:52:27.426Z"
-    },
-    {
       "id": "mq9x012ivjbennnf7db",
       "name": "Ricardo Lu",
       "email": "",
@@ -2250,5 +2232,5 @@
       "addedAt": "2026-06-25T18:11:38.817Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:10:40.351Z"
+  "lastUpdated": "2026-06-29T22:14:24.851Z"
 }
