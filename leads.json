@@ -2160,24 +2160,6 @@
       "addedAt": "2026-06-25T18:09:36.437Z"
     },
     {
-      "id": "mqtthmfhhyeumr5p4g",
-      "name": "Dav Schwartz",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-29",
-      "notes": "",
-      "lastModified": "2026-06-25",
-      "dateAdded": "2026-06-25",
-      "addedAt": "2026-06-25T18:10:01.037Z"
-    },
-    {
       "id": "mqtti5ogjkz3lpqxny",
       "name": "Josh Silver",
       "email": "",
@@ -2286,5 +2268,5 @@
       "addedAt": "2026-06-25T18:11:38.817Z"
     }
   ],
-  "lastUpdated": "2026-06-29T21:42:26.776Z"
+  "lastUpdated": "2026-06-29T21:42:34.219Z"
 }
