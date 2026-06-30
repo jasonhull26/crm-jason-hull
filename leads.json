@@ -2285,7 +2285,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:46:48.444Z"
+    },
+    {
+      "id": "mr0tmhpb7gq4qhw9bk7",
+      "name": "Rada Tude",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:48:11.423Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:46:48.444Z"
+  "lastUpdated": "2026-06-30T15:48:11.423Z"
 }
