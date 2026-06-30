@@ -2501,7 +2501,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:58:07.389Z"
+    },
+    {
+      "id": "mr0tzsuxiz5d98backc",
+      "name": "Jody Tarantino",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:58:32.409Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:58:07.389Z"
+  "lastUpdated": "2026-06-30T15:58:32.409Z"
 }
