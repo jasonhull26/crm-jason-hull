@@ -2429,7 +2429,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:52:56.214Z"
+    },
+    {
+      "id": "mr0tt5datmk3lodmggp",
+      "name": "Becky Gosnell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:53:22.031Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:52:56.214Z"
+  "lastUpdated": "2026-06-30T15:53:22.031Z"
 }
