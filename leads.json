@@ -2411,7 +2411,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:52:34.519Z"
+    },
+    {
+      "id": "mr0tslg5q4qnj601m7b",
+      "name": "Carol Thomas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:52:56.214Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:52:34.519Z"
+  "lastUpdated": "2026-06-30T15:52:56.214Z"
 }
