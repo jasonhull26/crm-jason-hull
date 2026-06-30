@@ -2321,7 +2321,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:48:45.971Z"
+    },
+    {
+      "id": "mr0tnyb1qko6cl44xs9",
+      "name": "Tiffany Rogers",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:49:19.597Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:48:45.971Z"
+  "lastUpdated": "2026-06-30T15:49:19.597Z"
 }
