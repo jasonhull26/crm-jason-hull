@@ -2393,7 +2393,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:52:04.074Z"
+    },
+    {
+      "id": "mr0ts4pjspsc73c1jwo",
+      "name": "Uiha Tuikolovatu",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:52:34.519Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:52:04.074Z"
+  "lastUpdated": "2026-06-30T15:52:34.519Z"
 }
