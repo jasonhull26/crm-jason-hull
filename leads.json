@@ -2600,7 +2600,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -2609,8 +2609,9 @@
       "notes": "",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
-      "addedAt": "2026-07-02T20:25:18.236Z"
+      "addedAt": "2026-07-02T20:25:18.236Z",
+      "customerSince": "2026-07-02"
     }
   ],
-  "lastUpdated": "2026-07-02T20:25:18.236Z"
+  "lastUpdated": "2026-07-02T20:25:56.166Z"
 }
