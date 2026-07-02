@@ -2537,7 +2537,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:59:07.374Z"
+    },
+    {
+      "id": "mr3ux9q12ztr5tkk79h",
+      "name": "Uiha Tu",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T18:47:52.441Z"
     }
   ],
-  "lastUpdated": "2026-07-02T18:47:10.729Z"
+  "lastUpdated": "2026-07-02T18:47:52.441Z"
 }
