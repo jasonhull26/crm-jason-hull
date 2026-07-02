@@ -2581,7 +2581,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
@@ -2590,8 +2590,9 @@
       "notes": "",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
-      "addedAt": "2026-07-02T20:16:31.050Z"
+      "addedAt": "2026-07-02T20:16:31.050Z",
+      "customerSince": "2026-07-02"
     }
   ],
-  "lastUpdated": "2026-07-02T20:16:41.594Z"
+  "lastUpdated": "2026-07-02T20:17:07.994Z"
 }
