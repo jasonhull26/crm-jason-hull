@@ -2555,7 +2555,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T18:47:52.441Z"
+    },
+    {
+      "id": "mr3uxmducvlzojb9mi",
+      "name": "Mark Ratt",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T18:48:08.850Z"
     }
   ],
-  "lastUpdated": "2026-07-02T18:47:52.441Z"
+  "lastUpdated": "2026-07-02T18:48:08.850Z"
 }
