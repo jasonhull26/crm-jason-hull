@@ -997,14 +997,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:14:39.157Z"
     },
@@ -2539,5 +2539,5 @@
       "addedAt": "2026-06-30T15:59:07.374Z"
     }
   ],
-  "lastUpdated": "2026-07-02T18:40:15.237Z"
+  "lastUpdated": "2026-07-02T18:40:34.122Z"
 }
