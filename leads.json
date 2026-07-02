@@ -2592,7 +2592,25 @@
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T20:16:31.050Z",
       "customerSince": "2026-07-02"
+    },
+    {
+      "id": "mr3yekd8cck91rho7se",
+      "name": "Misty Rose",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T20:25:18.236Z"
     }
   ],
-  "lastUpdated": "2026-07-02T20:17:07.994Z"
+  "lastUpdated": "2026-07-02T20:25:18.236Z"
 }
