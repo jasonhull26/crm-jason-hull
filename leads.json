@@ -2575,25 +2575,6 @@
       "addedAt": "2026-07-02T18:48:08.850Z"
     },
     {
-      "id": "mr3y39l6zi18a6z3ied",
-      "name": "Misty Rose",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Customer",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Closed",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": null,
-      "notes": "",
-      "lastModified": "2026-07-02",
-      "dateAdded": "2026-07-02",
-      "addedAt": "2026-07-02T20:16:31.050Z",
-      "customerSince": "2026-07-02"
-    },
-    {
       "id": "mr3yekd8cck91rho7se",
       "name": "Misty Rose",
       "email": "",
@@ -2613,5 +2594,5 @@
       "customerSince": "2026-07-02"
     }
   ],
-  "lastUpdated": "2026-07-02T20:25:56.166Z"
+  "lastUpdated": "2026-07-02T20:26:28.928Z"
 }
