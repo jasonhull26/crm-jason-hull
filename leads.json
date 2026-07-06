@@ -2203,14 +2203,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T18:11:38.817Z"
     },
@@ -2594,5 +2594,5 @@
       "customerSince": "2026-07-02"
     }
   ],
-  "lastUpdated": "2026-07-06T22:41:40.823Z"
+  "lastUpdated": "2026-07-06T22:45:12.768Z"
 }
