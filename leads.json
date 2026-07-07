@@ -172,7 +172,7 @@
     },
     {
       "id": "mpfuuviebtp53lml03o",
-      "name": "Eric and Ronald",
+      "name": "Eric Foutch",
       "email": "",
       "phone": "",
       "social": "",
@@ -180,10 +180,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-06",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-10",
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-05-21",
       "videoSent": false
     },
@@ -2594,5 +2594,5 @@
       "addedAt": "2026-07-07T20:43:47.246Z"
     }
   ],
-  "lastUpdated": "2026-07-07T23:29:34.818Z"
+  "lastUpdated": "2026-07-07T23:29:59.683Z"
 }
