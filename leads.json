@@ -2592,7 +2592,26 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T20:43:47.246Z"
+    },
+    {
+      "id": "mrbabika0rd1hu4s9t0b",
+      "name": "Ryan Costello",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "customerSince": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T23:33:14.554Z"
     }
   ],
-  "lastUpdated": "2026-07-07T23:30:43.933Z"
+  "lastUpdated": "2026-07-07T23:33:14.554Z"
 }
