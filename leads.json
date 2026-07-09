@@ -2611,7 +2611,25 @@
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T23:33:14.554Z"
+    },
+    {
+      "id": "mrdtda49x0jf9dtiwv",
+      "name": "Jeremy Uhll",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-12",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T18:02:01.977Z"
     }
   ],
-  "lastUpdated": "2026-07-07T23:33:14.554Z"
+  "lastUpdated": "2026-07-09T18:02:01.977Z"
 }
