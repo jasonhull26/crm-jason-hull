@@ -2702,7 +2702,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T18:04:31.541Z"
+    },
+    {
+      "id": "mrdtgu4di3y3o9vj13e",
+      "name": "William Maher",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T18:04:47.869Z"
     }
   ],
-  "lastUpdated": "2026-07-09T18:04:31.541Z"
+  "lastUpdated": "2026-07-09T18:04:47.869Z"
 }
