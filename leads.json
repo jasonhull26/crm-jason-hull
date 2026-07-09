@@ -2647,7 +2647,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T18:02:22.785Z"
+    },
+    {
+      "id": "mrdtebkmdzpq1yu4deu",
+      "name": "Gary Gilb",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-13",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T18:02:50.518Z"
     }
   ],
-  "lastUpdated": "2026-07-09T18:02:22.786Z"
+  "lastUpdated": "2026-07-09T18:02:50.518Z"
 }
