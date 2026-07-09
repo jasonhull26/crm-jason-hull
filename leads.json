@@ -146,10 +146,10 @@
       "status": "Nurture",
       "temperature": "Hot",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
       "notes": "",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-05-21",
       "videoSent": false
     },
@@ -2722,5 +2722,5 @@
       "addedAt": "2026-07-09T18:04:47.869Z"
     }
   ],
-  "lastUpdated": "2026-07-09T18:44:13.290Z"
+  "lastUpdated": "2026-07-09T18:44:18.682Z"
 }
