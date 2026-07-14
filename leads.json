@@ -2936,7 +2936,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:39:30.354Z"
+    },
+    {
+      "id": "mrkzx52tuvo2xg7puhf",
+      "name": "James Brdecko",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-17",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T18:39:49.493Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:39:30.354Z"
+  "lastUpdated": "2026-07-14T18:39:49.493Z"
 }
