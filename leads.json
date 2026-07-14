@@ -2738,7 +2738,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:34:53.392Z"
+    },
+    {
+      "id": "mrkzr845x9hd56n0v5",
+      "name": "Lori Dilorenzo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-21",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T18:35:13.493Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:34:53.393Z"
+  "lastUpdated": "2026-07-14T18:35:13.493Z"
 }
