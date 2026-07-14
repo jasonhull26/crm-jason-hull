@@ -1969,14 +1969,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T04:53:26.714Z"
     },
@@ -2974,5 +2974,5 @@
       "addedAt": "2026-07-14T18:40:05.757Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:52:06.082Z"
+  "lastUpdated": "2026-07-14T18:52:19.529Z"
 }
