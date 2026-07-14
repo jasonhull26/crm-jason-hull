@@ -925,14 +925,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T18:13:32.291Z"
     },
@@ -2974,5 +2974,5 @@
       "addedAt": "2026-07-14T18:40:05.757Z"
     }
   ],
-  "lastUpdated": "2026-07-14T19:02:13.111Z"
+  "lastUpdated": "2026-07-14T19:02:19.860Z"
 }
