@@ -2918,7 +2918,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:39:12.734Z"
+    },
+    {
+      "id": "mrkzwqb6lc6p7m52r9r",
+      "name": "Barry Coleman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-21",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T18:39:30.354Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:39:12.734Z"
+  "lastUpdated": "2026-07-14T18:39:30.354Z"
 }
