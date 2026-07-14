@@ -2900,7 +2900,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:38:21.618Z"
+    },
+    {
+      "id": "mrkzwcpq995yusbds3t",
+      "name": "Jason Myers",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-17",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T18:39:12.734Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:38:21.618Z"
+  "lastUpdated": "2026-07-14T18:39:12.734Z"
 }
