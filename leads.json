@@ -2882,7 +2882,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:37:46.295Z"
+    },
+    {
+      "id": "mrkzv99ufjrysei5cbk",
+      "name": "Miren Shah",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T18:38:21.618Z"
     }
   ],
-  "lastUpdated": "2026-07-14T18:37:46.295Z"
+  "lastUpdated": "2026-07-14T18:38:21.618Z"
 }
