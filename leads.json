@@ -3206,7 +3206,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T15:37:27.439Z"
+    },
+    {
+      "id": "mrnoaxms2pbnxd9tj4g",
+      "name": "Kent Bayne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:37:56.164Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:37:27.439Z"
+  "lastUpdated": "2026-07-16T15:37:56.164Z"
 }
