@@ -3278,7 +3278,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T15:39:29.973Z"
+    },
+    {
+      "id": "mrnodq30d35xvpdtl9f",
+      "name": "Greg Stodghill",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:40:06.348Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:39:29.973Z"
+  "lastUpdated": "2026-07-16T15:40:06.348Z"
 }
