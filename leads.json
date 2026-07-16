@@ -2972,7 +2972,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T18:40:05.757Z"
+    },
+    {
+      "id": "mrno3xr2mkxp49gyjva",
+      "name": "Michel Polderman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:32:29.726Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:23:00.730Z"
+  "lastUpdated": "2026-07-16T15:32:29.726Z"
 }
