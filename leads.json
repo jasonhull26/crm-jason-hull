@@ -3080,7 +3080,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T15:34:42.084Z"
+    },
+    {
+      "id": "mrno73j90x2xtv5l5ngr",
+      "name": "Avery Dunn",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:34:57.189Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:34:42.084Z"
+  "lastUpdated": "2026-07-16T15:34:57.189Z"
 }
