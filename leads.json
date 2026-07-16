@@ -3152,7 +3152,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T15:36:14.417Z"
+    },
+    {
+      "id": "mrno9krrzrfj1zooc1c",
+      "name": "Alan LaoDer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T15:36:52.839Z"
     }
   ],
-  "lastUpdated": "2026-07-16T15:36:14.417Z"
+  "lastUpdated": "2026-07-16T15:36:52.839Z"
 }
