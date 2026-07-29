@@ -3350,7 +3350,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T20:07:17.645Z"
+    },
+    {
+      "id": "ms6io5dz9ie71f0972",
+      "name": "Greg Condon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-05",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T20:07:52.392Z"
     }
   ],
-  "lastUpdated": "2026-07-29T20:07:17.645Z"
+  "lastUpdated": "2026-07-29T20:07:52.392Z"
 }
