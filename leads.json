@@ -3386,7 +3386,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T20:08:07.128Z"
+    },
+    {
+      "id": "ms6ioqs7e7ygygythu",
+      "name": "Shayla Rae",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-05",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T20:08:20.119Z"
     }
   ],
-  "lastUpdated": "2026-07-29T20:08:07.128Z"
+  "lastUpdated": "2026-07-29T20:08:20.119Z"
 }
