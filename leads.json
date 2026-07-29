@@ -2938,24 +2938,6 @@
       "addedAt": "2026-07-14T18:39:49.493Z"
     },
     {
-      "id": "mrkzxhml4poem9987h4",
-      "name": "Peter Mountzoures",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-21",
-      "notes": "",
-      "lastModified": "2026-07-14",
-      "dateAdded": "2026-07-14",
-      "addedAt": "2026-07-14T18:40:05.757Z"
-    },
-    {
       "id": "mrno3xr2mkxp49gyjva",
       "name": "Michel Polderman",
       "email": "",
@@ -3316,5 +3298,5 @@
       "addedAt": "2026-07-16T15:48:44.105Z"
     }
   ],
-  "lastUpdated": "2026-07-29T19:55:25.712Z"
+  "lastUpdated": "2026-07-29T19:55:42.109Z"
 }
